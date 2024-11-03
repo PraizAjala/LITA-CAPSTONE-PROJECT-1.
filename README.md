@@ -21,3 +21,8 @@ The data used for this project is  sales data.csv which was provided by the Incu
 4. Created New Column
 - A new Column was created to calculate the total revenue, which was Unit price * quantity 
 
+## Exploratory Data Analysis 
+- What are the highest selling products
+- What is the percentage of total sales by each region
+- What are the total sales by each product category
+- What is the total sales by month and year
