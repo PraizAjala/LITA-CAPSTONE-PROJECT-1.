@@ -26,6 +26,9 @@ The data used for this project is  sales data.csv which was provided by the Incu
 - What is the percentage of total sales by each region
 - What are the total sales by each product category
 - What is the total sales by month and year
-  ---
-## Data Visualization 
+
+  ## Data Visualization
+  ![
+![Screenshot_20241103_184045_WhatsApp.jpg](https://github.com/PraizAjala/LITA-CAPSTONE-PROJECT-1./blob/458d2bb90e2482b7ed20ece9ef016ad633c401fb/Screenshot_20241103_184045_WhatsApp.jpg)
+
 
