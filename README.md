@@ -26,3 +26,6 @@ The data used for this project is  sales data.csv which was provided by the Incu
 - What is the percentage of total sales by each region
 - What are the total sales by each product category
 - What is the total sales by month and year
+  ---
+## Data Visualization 
+
