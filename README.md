@@ -28,7 +28,8 @@ The data used for this project is  sales data.csv which was provided by the Incu
 - What is the total sales by month and year
 
   ## Data Visualization
-  ![
+  ![Screenshot_20241103_184003_WhatsApp.jpg](https://github.com/PraizAjala/LITA-CAPSTONE-PROJECT-1./blob/93575d4c7bbb60a9e90b82988f29842f0a20699e/Screenshot_20241103_184003_WhatsApp.jpg)
 ![Screenshot_20241103_184045_WhatsApp.jpg](https://github.com/PraizAjala/LITA-CAPSTONE-PROJECT-1./blob/458d2bb90e2482b7ed20ece9ef016ad633c401fb/Screenshot_20241103_184045_WhatsApp.jpg)
 
+![Screenshot_20241103_184028_WhatsApp.jpg](https://github.com/PraizAjala/LITA-CAPSTONE-PROJECT-1./blob/93575d4c7bbb60a9e90b82988f29842f0a20699e/Screenshot_20241103_184028_WhatsApp.jpg)
 
