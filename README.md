@@ -5,7 +5,7 @@ This project aims to analyze the sales data for a retail store, to gain insights
 ---
 
 ## Data Sources
-The data used for this project is  sales data.csv which was provided by the Incubator Hub
+The data used for this project is  sales data.csv which was provided by the Incubator Hub, an information technology organisation.
 
 ## Tools Used
 - Microsoft Excel for data cleaning, analysis.
@@ -14,4 +14,10 @@ The data used for this project is  sales data.csv which was provided by the Incu
 - Github for Portfolio building
 
 ## Data Cleaning and Preparation 
+ 1. Data loading and inspection
+ 2. Data validation was carried out, checking for duplicates and removing duplicates
+ 3. Data types and Formatting,
+    Ensured data field were assigned the right data type, and corrected where necessary
+4. Created New Column
+- A new Column was created to calculate the total revenue, which was Unit price * quantity 
 
