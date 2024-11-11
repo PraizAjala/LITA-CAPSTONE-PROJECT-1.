@@ -24,7 +24,7 @@ The dataset includes the following fields:
 ---
 ## Data Cleaning and Preparation 
  1. Data loading and inspection
- 2. Data validation was carried out, checking for duplicates and removing duplicates, also checking for null spaces and removing null spaces.
+ 2. Data validation was carried out, checking for duplicates, also checking for null spaces.
  3. Data types and Formatting:
     by ensuring data fields were assigned the right data type, and corrected where necessary
 4. Created New Column
@@ -43,3 +43,4 @@ The dataset includes the following fields:
 
 ![Screenshot_20241103_184028_WhatsApp.jpg](https://github.com/PraizAjala/LITA-CAPSTONE-PROJECT-1./blob/93575d4c7bbb60a9e90b82988f29842f0a20699e/Screenshot_20241103_184028_WhatsApp.jpg)
 
+## Insights:
