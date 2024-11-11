@@ -13,13 +13,23 @@ The data used for this project is  sales data.csv which was provided by the Incu
 - Power BI for visualisation
 - Github for Portfolio building
 
+## Dataset Description
+The dataset includes the following fields:
+- Order ID; the unique identifier for each order placed
+- Customer ID; the unique identifier for each unique customer
+- Products Category; the different categories of products
+- Region: the region where the transaction occured
+- Unit price; the price per unit sold
+- Quantity sold; the number of unit sold in each transaction
+---
 ## Data Cleaning and Preparation 
  1. Data loading and inspection
- 2. Data validation was carried out, checking for duplicates and removing duplicates
- 3. Data types and Formatting,
-    Ensured data field were assigned the right data type, and corrected where necessary
+ 2. Data validation was carried out, checking for duplicates and removing duplicates, also checking for null spaces and removing null spaces.
+ 3. Data types and Formatting:
+    by ensuring data fields were assigned the right data type, and corrected where necessary
 4. Created New Column
-- A new Column was created to calculate the total revenue, which was Unit price * quantity 
+- A new Column was created and named TOTAL REVENUE, to calculate the total amount of sales made from each unique transaction,
+-  this was calculated Total revenue = Unit price * quantity 
 
 ## Exploratory Data Analysis 
 - What are the highest selling products
