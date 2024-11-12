@@ -44,3 +44,17 @@ The dataset includes the following fields:
 ![Screenshot_20241103_184028_WhatsApp.jpg](https://github.com/PraizAjala/LITA-CAPSTONE-PROJECT-1./blob/93575d4c7bbb60a9e90b82988f29842f0a20699e/Screenshot_20241103_184028_WhatsApp.jpg)
 
 ## Insights:
+
+The store has 500 unique customers, spread across 4 regions.
+-	There are 6 product categories.
+- Total revenue stands at #2.10M (Nigerian Naira), with a total quantity sold of 68K.
+
+- The pie chart shows that the South region contributes the highest revenue, followed by North, East, and West.
+- South seems to be the most lucrative market
+- 2. PRODUCT SALES BY REVENUE
+  - The bar graph shows that: Product category Shoe generates the highest revenue followed by Shirt and Belt follows suit.
+ 
+ ## RECOMMENDATION
+ - Focusing on the South region could yield even better results
+ - The company should consider strategies to boost sales of Product Shirt and Product Belt.
+ - Furthermore, the company would need to keep an eye on inventory management for high-revenue products.
