@@ -58,3 +58,4 @@ The store has 500 unique customers, spread across 4 regions.
  - Focusing on the South region could yield even better results
  - The company should consider strategies to boost sales of Product Shirt and Product Belt.
  - Furthermore, the company would need to keep an eye on inventory management for high-revenue products.
+ - Further research can be made into cause for low to zero sales of hat, socks and gloves and business decisions can be made.
